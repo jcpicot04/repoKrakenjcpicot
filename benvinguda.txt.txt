@@ -1,2 +1,3 @@
 jcpicot
 (A) Benvinguda a la branca 01 jcpicot
+(E) Afegim imatge a branca01.
