@@ -4,3 +4,4 @@ jcpicot
 (C) Benvinguda a la branca 02 NomAlumne
 (D) Modificació 02 Main jcpicot
 (E) Afegim imatge a branca01.
+(F) Afegim imatge a branca02
